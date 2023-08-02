@@ -10,5 +10,7 @@ Come up with questions and create 6-8 visualizations of data(at least two per qu
 
 Create a Power Point and have every visualization supported with a precise explanation.
 
+Each question is responded and supported.
+
 
 
