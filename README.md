@@ -12,5 +12,9 @@ Create a Power Point and have every visualization supported with a precise expla
 
 Each question is responded and supported.
 
+In our case, questions we asked 
+
+
+
 
 
