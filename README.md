@@ -27,6 +27,16 @@ Our team has begun the analysis of the statewide COVID-19 dataset and formulated
 5.	What are the typical ranges of total cases, death increases, and hospitalized increases for most states?
 6.	Are there any geographic clusters of high or low increases in positive, hospitalized, and death cases?
 
+### Key Steps to Answer Questions ###
+- Created a new data frame with the formatted date. 
+- Filtered the data with relevant variables, data cleaning & handle missing values.
+- Calculated daily increases. 
+- Plotted the total and average positive cases increase, deaths increase, & hospitalized increase. 
+- Created a correlation matrix using positive cases, deaths, and hospitalized variables, and visualized in a heat map to understand the correlation between variables.
+- Created maps using geopandas to show the intensity of cases, deaths, and hospitalized based on states. 
+- Finally, calculated and plotted weekly and monthly positive cases, death, and hospitalized increases to see weekly and monthly COVID metrics.
+
+
 
 
 
