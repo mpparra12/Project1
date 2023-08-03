@@ -42,7 +42,7 @@ Our team has begun the analysis of the statewide COVID-19 dataset and formulated
 
 ![alt text](https://github.com/mpparra12/Project1/blob/main/output_data/Fig2.png)
 
-
+![alt text](https://github.com/mpparra12/Project1/blob/main/output_data/Fig3.png)
 
 
 
