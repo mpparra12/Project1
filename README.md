@@ -23,7 +23,7 @@ Our team has begun the analysis of the statewide COVID-19 dataset and formulated
 4.	What are the weekly and monthly trends in positive, hospitalized, and death increases? What is the overall trajectory of the pandemic based on the weekly and monthly metrics?
 5.	What are the typical ranges of total cases, death increases, and hospitalized increases for most states?
 6.	Are there any geographic clusters of high or low increases in positive, hospitalized, and death cases?
-
+7.What factors contributed to COVID-19 deaths in 2020?
 ### Key Steps to Answer Questions ###
 - Created a new data frame with the formatted date. 
 - Filtered the data with relevant variables, data cleaning & handle missing values.
@@ -50,3 +50,9 @@ Our team has begun the analysis of the statewide COVID-19 dataset and formulated
 ![alt text](https://github.com/mpparra12/Project1/blob/main/output_data/Map%201.PNG)
 ![alt text](https://github.com/mpparra12/Project1/blob/main/output_data/Map%202.PNG)
 ![alt text](https://github.com/mpparra12/Project1/blob/main/output_data/Map%203.PNG)
+
+<img width="801" alt="reg1" src="https://github.com/mpparra12/Project1/assets/135544908/0c4cd04c-5108-41e8-a15a-ac5bb20aa249">
+
+<img width="725" alt="partial_reg1" src="https://github.com/mpparra12/Project1/assets/135544908/ac0df65b-2e93-4aaf-b5cf-fe2854242513">
+
+![sample_plot](https://github.com/mpparra12/Project1/assets/135544908/113fd821-8687-4b8f-ad30-d20e30df4042)
