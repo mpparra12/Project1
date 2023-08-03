@@ -16,5 +16,19 @@ In our case, questions we asked
 
 
 
+# Covid19 State-wide data analysis # 
+
+Our team has begun the analysis of the statewide COVID-19 dataset and formulated the following questions to gain insights into the pandemic's impact across states:
+
+1.	Are there any states that exhibit high positive, hospitalized, and death increases simultaneously?
+2.	Is there a correlation between positive, hospitalized, and death increases across states?
+3.	How have the trends in these variables changed over time?
+4.	What are the weekly and monthly trends in positive, hospitalized, and death increases? What is the overall trajectory of the pandemic based on the weekly and monthly metrics?
+5.	What are the typical ranges of total cases, death increases, and hospitalized increases for most states?
+6.	Are there any geographic clusters of high or low increases in positive, hospitalized, and death cases?
+
+
+
+
 
 
