@@ -1,4 +1,4 @@
-# Covid Data Analysis Project 1 
+# Covid19 Data Analysis Project 1 
 
 Module 7: Project 1 due date Wednesday August 2nd
 
