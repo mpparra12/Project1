@@ -36,6 +36,10 @@ Our team has begun the analysis of the statewide COVID-19 dataset and formulated
 - Created maps using geopandas to show the intensity of cases, deaths, and hospitalized based on states. 
 - Finally, calculated and plotted weekly and monthly positive cases, death, and hospitalized increases to see weekly and monthly COVID metrics.
 
+### Data Visualization ###
+![alt text](https://github.com/mpparra12/Project1/blob/main/output_data/Fig1.png)
+
+
 
 
 
