@@ -1,4 +1,4 @@
-Covid Data Analysis Project 1 
+# Covid Data Analysis Project 1 
 
 Module 7: Project 1 due date Wednesday August 2nd
 
@@ -12,10 +12,7 @@ Create a Power Point and have every visualization supported with a precise expla
 
 Each question is responded and supported.
 
-In our case, questions we asked 
-
-
-
+ 
 # Covid19 State-wide data analysis # 
 
 Our team has begun the analysis of the statewide COVID-19 dataset and formulated the following questions to gain insights into the pandemic's impact across states:
